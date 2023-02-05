@@ -1,0 +1,12 @@
+# Default ignored files
+target/
+logs/
+.idea/
+*.iml
+*.log
+*.ctxt
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
